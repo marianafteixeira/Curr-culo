@@ -1,8 +1,8 @@
 # Curriculo
 Mariana Maria Gomes Ferreira Teixeira.
-34 anos.
-Solteira.
-Rio de Janeiro - RJ.
+* 34 anos.
+* Solteira.
+* Rio de Janeiro - RJ.
 
 ## Escolaridade
 * Cursando Engenharia de Software, na Universidade Estácio de Sá. Previsão de conclusão - dezembro/2027.
