@@ -1,2 +1,2 @@
-# Curr-culo
-Currículo para oportunidades
+# Curriculo
+Mariana Maria Gomes Ferreira Teixeira
