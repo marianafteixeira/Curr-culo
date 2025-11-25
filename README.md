@@ -35,7 +35,7 @@ Atuando como pesquisadora. Realizando a pesquisa com o público do festival
 durante os sete dias. Atuando, também, na área vip, onde controlava a entrada e saída, e
 colocando pulseira de menor e maior de idade na entrada dos convidados, nos dois dias que
 a meta da pesquisa foi alcançada antes do fim do expediente.
-_____________________________________________________________________
+
 
 ## Cursos de aperfeiçoamento
 * Curso Santander 2025 - Ciência de Dados com Python - DIO - Cursando.
