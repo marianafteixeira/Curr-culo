@@ -38,7 +38,9 @@ a meta da pesquisa foi alcançada antes do fim do expediente.
 _____________________________________________________________________
 
 ## Cursos de aperfeiçoamento
-* Curso Code Girls Santander 2025 - Computação em nuvem - Cursando.
+* Curso Santander 2025 - Ciência de Dados com Python - DIO - Cursando.
+* Curso Fundamentos da Inteligência Artificial - IBM - Concluído em outubro/2025.
+* Curso Code Girls Santander 2025 - Computação em nuvem - Concluído em Outubro/2025.
 * Curso Power BI Microsoft - Cursando.
 * Curso Python - Curso em Vídeo - Concluído em 2025.
 * Curso Introdução a Ciência de Dados - CECIERJ - concluído em 2024.
@@ -47,10 +49,10 @@ _____________________________________________________________________
 * Curso Amazon Cloud Practitioner Essentials - AWS - Concluído em 2024.
 * Curso de JavaScript para iniciantes - Curso em Vídeo no YouTube: Cursando.
 * Curso Lógica de programação - Fundação Bradesco - Concluído em 2021.
-*  Microsoft Office Excel básico e intermediário - Fundação Bradesco: Concluído em 2021.
-*  Técnico em administração - SENAC Rio: concluído em maio/2020.
-*  Inglês - CNA: Concluído em 2016.
-*   Matéria Web Design, com ênfase em HTML durante o curso de Publicidade e Propaganda. Universidade Estácio de Sá: Concluído.
+* Microsoft Office Excel básico e intermediário - Fundação Bradesco: Concluído em 2021.
+* Técnico em administração - SENAC Rio: concluído em maio/2020.
+* Inglês - CNA: Concluído em 2016.
+* Matéria Web Design, com ênfase em HTML durante o curso de Publicidade e Propaganda. Universidade Estácio de Sá: Concluído.
 
 ## Informática
 #### Intermediário:
