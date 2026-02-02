@@ -38,10 +38,10 @@ a meta da pesquisa foi alcançada antes do fim do expediente.
 
 
 ## Cursos de aperfeiçoamento
-* Curso Santander 2025 - Ciência de Dados com Python - DIO - Cursando.
+* Curso Imersão Alura Análise de dados com Python - Alura - Concluído em fevereiro/2026.
+* Curso Power BI - Ka Solutions - Concluído em fevereiro/2026.
 * Curso Fundamentos da Inteligência Artificial - IBM - Concluído em outubro/2025.
 * Curso Code Girls Santander 2025 - Computação em nuvem - Concluído em Outubro/2025.
-* Curso Power BI Microsoft - Cursando.
 * Curso Python - Curso em Vídeo - Concluído em 2025.
 * Curso Introdução a Ciência de Dados - CECIERJ - concluído em 2024.
 * Curso Descomplica Power BI - Kultivi - Concluído em 2024.
